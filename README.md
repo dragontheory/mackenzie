@@ -1,2 +1,2 @@
 # mackenzie
-Template in real life CSS
+Template in real life modernCSS
